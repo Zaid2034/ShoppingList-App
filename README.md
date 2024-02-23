@@ -1,4 +1,4 @@
- Shopping List App § Source Code
+ Shopping List App
 – Developed a Shopping List app in kotlin using a modern Android toolkit Jetpack Compose for building native UIs.
   The app uses Kotlin Coroutines for background thread processing of database queries, facilitating multithreading.
   Designed a robust user interface with RecyclerView to efficiently display chat messages and generated images.
